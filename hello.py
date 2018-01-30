@@ -1,3 +1,7 @@
 print ("My name is Rhea")
 print("born in june")
+print("my favorite food is ramen")
+print("my favorite music is rock")
+print("my sign is gemini")
+print("mother's maiden name is naregal")
 print('My name is Michelle')
